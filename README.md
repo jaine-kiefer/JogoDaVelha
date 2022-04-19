@@ -7,12 +7,14 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#Desenvolvimento">Desenvolvimento</a> • 
- <a href="#Referências">Referências</a> • 
+ <a href="#desenvolvimento">Desenvolvimento</a> • 
+ <a href="#referências">Referências</a> • 
 </p>
 
-Tecnologias
+# Objetivo
 
-Desenvolvimento
+# Tecnologias
 
-## Referências
+# Desenvolvimento
+
+<h1 align="center">Referências</h1>

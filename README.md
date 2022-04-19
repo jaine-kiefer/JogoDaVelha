@@ -12,6 +12,7 @@
 </p>
 
 # Objetivo
+Projeto de estudo.
 
 # Tecnologias
 

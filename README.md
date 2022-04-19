@@ -4,6 +4,8 @@
   <img alt="Jogo da Velha" title="Jogo da Velha" src="./assets/img1.png" />
 </h1>
 
+<p align="center">Link para testar o jogo: jaine-kiefer.github.io/jogodavelha/</p>
+
 <p align="center">
  <a href="#descrição">Descrição</a> •
  <a href="#tecnologias">Tecnologias</a> • 

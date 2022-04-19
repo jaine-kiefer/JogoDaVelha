@@ -5,13 +5,13 @@
 </h1>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#descrição">Descrição</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#desenvolvimento">Desenvolvimento</a> • 
  <a href="#referências">Referências</a>  
 </p>
 
-# Objetivo
+# Descrição
 Projeto de estudo.
 
 # Tecnologias

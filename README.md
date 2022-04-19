@@ -25,6 +25,6 @@ As seguintes tecnologias foram usadas na construção do projeto:
 # Desenvolvimento
 
 <h1 align="center">Referências</h1>
-https://developer.mozilla.org/pt-BR/docs/Web/HTML
-https://developer.mozilla.org/pt-BR/docs/Web/CSS
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+<p>https://developer.mozilla.org/pt-BR/docs/Web/HTML</p>
+<p>https://developer.mozilla.org/pt-BR/docs/Web/CSS</p>
+<p>https://developer.mozilla.org/pt-BR/docs/Web/JavaScript</p>

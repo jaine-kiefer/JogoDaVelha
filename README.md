@@ -8,7 +8,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#desenvolvimento">Desenvolvimento</a> • 
- <a href="#referências">Referências</a> • 
+ <a href="#referências">Referências</a>  
 </p>
 
 # Objetivo

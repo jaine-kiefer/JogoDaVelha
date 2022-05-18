@@ -3,7 +3,7 @@ var jogadorSelecionado = document.getElementById('jogador-selecionado');
 var vencedorSelecionado = document.getElementById('vencedor-selecionado');
 var quadrados = document.getElementsByClassName("quadrado");
 
-mudarJogador('X');
+mudarJogador('&#129680');
 
 function escolherQuadrado(id){
 
@@ -19,10 +19,10 @@ function escolherQuadrado(id){
     quadrado.innerHTML = jogador;
     quadrado.style.color = '#000';
     
-    if (jogador === "X") {
-        jogador = "O";
+    if (jogador === "&#129680") {
+        jogador = "&#127757";
     }else {
-        jogador = "X"
+        jogador = "&#129680"
     }
 
     mudarJogador(jogador); 
@@ -90,8 +90,10 @@ function checaVencedor() {
     if(checaSequencia(quadrado3, quadrado5, quadrado7)) {
         mudaCorQuadrado(quadrado3, quadrado5, quadrado7);
         mudarVencedor(quadrado3);
+        
     }
-    
+
+
 }
 
 function mudarVencedor(quadrado) {
@@ -109,11 +111,14 @@ function checaSequencia(quadrado1, quadrado2, quadrado3) {
     var eigual = false;
 
     if (quadrado1.innerHTML !== "-" && quadrado1.innerHTML === quadrado2.innerHTML && quadrado2.innerHTML === quadrado3.innerHTML) {
-    eigual = true;        
-    }
+    eigual = true;   
+        
+    } 
 return eigual;
 
 }
+
+
 
 function reiniciar() {
     vencedor = null;
@@ -125,10 +130,13 @@ function reiniciar() {
         quadrado.style.color = "#eee";
         quadrado.innerHTML = "-";
 
+
     }
 
-    mudarJogador("X");
+    mudarJogador("&#129680");
 }
+
+
 
 //adicionar alerta de vencedor
 

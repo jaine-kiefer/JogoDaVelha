@@ -3,16 +3,19 @@ body {
   background-image: url(fundo.jpg); 
 }
 
+
 .quadrado {
     text-align: center;
-    width: 50px;
+    width: 150px;
     background: #eee;
     display: inline-block;
-    padding: 40px;
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
     color: #eee;
+    line-height: 150px;
+    height: 150px;
+
 }
 
 .jogador, .vencedor {
